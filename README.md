@@ -1,9 +1,16 @@
+# RoBusted 2024-25  "Into The Deep"
+RoBusted FTC Team #24664
+
+This is the RoBusted code based on the standard FTC SDK + the goBILDA Pinpoint Driver.
+
+
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the INTO THE DEEP (2024-2025) competition season.
 
 ## Welcome!
-This is a fork of the offical FTC SDK for the 24-25 season. It includes the source code for the FTC SDK, as well as the driver for the goBILDA Pinpoint Odometry Computer: https://www.gobilda.com/pinpoint-odometry-computer-imu-sensor-fusion-for-2-wheel-odometry/
+This is a fork of the official FTC SDK for the 24-25 season. It includes the source code for the FTC SDK, as well as the driver for the goBILDA Pinpoint Odometry Computer: https://www.gobilda.com/pinpoint-odometry-computer-imu-sensor-fusion-for-2-wheel-odometry/
 
 This repo includes the FTC Driver, and example Opmodes showing how to use the goBILDA® Pinpoint Odometry Computer.
 The goBILDA Odometry Computer is a device designed to solve the Pose Exponential calculation
