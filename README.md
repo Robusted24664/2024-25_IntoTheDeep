@@ -1,7 +1,7 @@
 # RoBusted 2024-25  "Into The Deep"
 RoBusted FTC Team #24664
 
-This is the RoBusted code based on the standard FTC SDK + the goBILDA Pinpoint Driver.
+This is the RoBusted repo for the 2024-25 season. It is based on the standard FTC SDK + the goBILDA Pinpoint Driver GitHub repo.
 
 
 
